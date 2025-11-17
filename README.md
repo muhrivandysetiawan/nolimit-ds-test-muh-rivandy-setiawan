@@ -1,7 +1,7 @@
 
 ---
 
-# 🚀 **NoLimit DS Technical Test — RAG Chatbot (Reinforcement Learning Papers)**
+#  **NoLimit DS Technical Test — RAG Chatbot (Reinforcement Learning Papers)**
 
 **Author:** Muh Rivandy Setiawan
 **Role:** Data Scientist Applicant
@@ -10,7 +10,7 @@
 
 ---
 
-## 📘 **Project Overview**
+##  **Project Overview**
 
 This repository contains my solution for the **NoLimit Data Science Technical Test**, where I built a **retrieval-based Q&A system with citations** using a lightweight RAG pipeline.
 
@@ -33,7 +33,7 @@ This solution fulfils all the **Mandatory Requirements** from the assignment.
 
 ---
 
-## 🏗 **System Architecture**
+##  **System Architecture**
 
 The pipeline consists of:
 
@@ -48,15 +48,17 @@ The pipeline consists of:
 
 ---
 
-## 🔧 **Flowchart (End-to-End Pipeline)**
+##  **Flowchart (End-to-End Pipeline)**
 
-![flowchart](flowchart.png)
+
+<img width="3000" height="4200" alt="flowchart_glassmorphism" src="https://github.com/user-attachments/assets/8b11280c-5404-4128-a55e-b8197c64cb80" />
+
 
 Full version available in `flowchart.pdf`.
 
 ---
 
-## 📂 **Repository Structure**
+##  **Repository Structure**
 
 ```
 nolimit-ds-test-rivandy/
@@ -84,7 +86,7 @@ nolimit-ds-test-rivandy/
 
 ---
 
-## 📥 **Dataset Source & License**
+##  **Dataset Source & License**
 
 All PDF documents in this repo come from **arXiv.org**:
 
@@ -96,7 +98,7 @@ Each PDF citation is also listed in metadata for transparency.
 
 ---
 
-## 🧠 **Mandatory Requirements Checklist**
+##  **Mandatory Requirements Checklist**
 
 | Requirement                                                   | Status                                |
 | ------------------------------------------------------------- | ------------------------------------- |
@@ -111,7 +113,7 @@ Each PDF citation is also listed in metadata for transparency.
 
 ---
 
-## ▶️ **How to Run Locally**
+##  **How to Run Locally**
 
 ### **1. Clone Repo**
 
@@ -141,7 +143,7 @@ from src.rag_pipeline import RAGPipeline
 
 ---
 
-## 🌐 **Deployment (Optional Bonus)**
+##  **Deployment (Optional Bonus)**
 
 This project includes a Streamlit UI (`src/app.py`) that can be deployed on:
 
@@ -155,7 +157,7 @@ Deployment instructions are provided inside the `app.py` file.
 
 ---
 
-## 🙌 **Bonus Points Included**
+##  **Bonus Points Included**
 
 The following bonus enhancements are implemented:
 
@@ -169,7 +171,7 @@ The following bonus enhancements are implemented:
 
 ---
 
-## 🧾 **Author**
+##  **Author**
 
 **Muh Rivandy Setiawan**
 AI/ML & Data Science Enthusiast
@@ -177,7 +179,7 @@ AI/ML & Data Science Enthusiast
 
 ---
 
-## 📩 **Contact**
+##  **Contact**
 
 If you need clarification or further technical discussion, I am available to discuss it.
 
