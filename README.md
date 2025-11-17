@@ -51,7 +51,7 @@ The pipeline consists of:
 ##  **Flowchart (End-to-End Pipeline)**
 
 
-<img width="3000" height="4200" alt="flowchart_glassmorphism" src="https://github.com/user-attachments/assets/8b11280c-5404-4128-a55e-b8197c64cb80" />
+<img width="761" height="201" alt="flowchart" src="https://github.com/user-attachments/assets/60e5c964-9a8e-4e35-8cd7-a020483aa540" />
 
 
 Full version available in `flowchart.pdf`.
@@ -80,8 +80,8 @@ nolimit-ds-test-rivandy/
 │     └── VectorIndexFAISS.py
 │── LICENSE
 │── README.md
-│── flowchart.png
 │── flowchart.pdf
+│── flowchart.png
 │── requirements.txt
 
 ```
