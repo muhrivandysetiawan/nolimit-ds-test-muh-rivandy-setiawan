@@ -62,25 +62,26 @@ Full version available in `flowchart.pdf`.
 
 ```
 nolimit-ds-test-rivandy/
-│── src/
-│     ├── rag_pipeline.py
-│     ├── loader.py
-│     ├── chunker.py
-│     ├── embed.py
-│     ├── index.py
-│     ├── retriever.py
-│     ├── formatter.py
-│     └── app.py         # Streamlit UI (optional)
 │── data_sample/
 │     ├── DAPO.pdf
 │     ├── RLAC.pdf
 │     └── RLVE.pdf
 │── notebook/
 │     └── testing_pipeline.ipynb
-│── flowchart.png
-│── flowchart.pdf
+│── src/
+│     ├── AnswerFormatter.py
+│     ├── EmbeddingGenerator.py
+│     ├── PDFLoader.py
+│     ├── RAGPipeline.py
+│     ├── Retriever.py
+│     ├── StreamlitApp.py   # Streamlit UI (optional)
+│     ├── TextChunker.py
+│     ├── Utilities.py
+│     └── VectorIndexFAISS.py
 │── LICENSE
 │── README.md
+│── flowchart.png
+│── flowchart.pdf
 │── requirements.txt
 
 ```
