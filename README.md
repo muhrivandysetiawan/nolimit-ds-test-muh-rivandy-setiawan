@@ -62,10 +62,6 @@ Full version available in `flowchart.pdf`.
 
 ```
 nolimit-ds-test-rivandy/
-│── README.md
-│── requirements.txt
-│── flowchart.png
-│── flowchart.pdf
 │── src/
 │     ├── rag_pipeline.py
 │     ├── loader.py
@@ -81,7 +77,12 @@ nolimit-ds-test-rivandy/
 │     └── RLVE.pdf
 │── notebook/
 │     └── testing_pipeline.ipynb
+│── flowchart.png
+│── flowchart.pdf
 │── LICENSE
+│── README.md
+│── requirements.txt
+
 ```
 
 ---
