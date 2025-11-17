@@ -1,9 +1,3 @@
-Siap. Ini **README final profesional**, sudah memenuhi semua *Mandatory Requirements*, *Best Practices GitHub*, dan langsung siap dipasang di repo:
-
-`nolimit-ds-test-rivandy`
-
-Kamu tinggal **copy–paste**.
-
 ---
 
 # 🚀 **NoLimit DS Technical Test — RAG Chatbot (Reinforcement Learning Papers)**
